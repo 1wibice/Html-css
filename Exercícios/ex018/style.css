@@ -1,0 +1,12 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+    font-size: 25px;
+    font-style: @import url('https://fonts.googleapis.com/css2? family= Roboto+Mono:ital,wght@0,100;0,200;1,100;1,200 & display=swap');
+}
+
+h1 {
+    font-weight: lighter;
+    width: 20px;
+    text-align: justify;
+
+}font-style: @import url('https://fonts.googleapis.com/css2? family= Roboto+Mono:ital,wght@0,100;0,200;1,100;1,200 & display=swap');
