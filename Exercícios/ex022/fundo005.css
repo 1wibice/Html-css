@@ -1,12 +1,15 @@
 
-        
+
+
+
+
         body { background-color: black;
             height: 100vh;
             background-image: url("img/wallpaper002.jpg"); 
             background-position: center top;
-            background-repeat: no-repeat;
             background-size: cover;
-        
+            background-repeat: repeat-y;
+            background-attachment: fixed;
             }
             
             main {
